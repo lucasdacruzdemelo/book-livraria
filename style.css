@@ -1,4 +1,27 @@
+body{
+    margin: 0;
+    font-family: 'tahoma ms'
+        color: #666;
+}
+
 #total{
     width: 1000px;
     margin: 0 auto;
 }
+
+#logo{
+    text-align: center;
+}
+
+#menu{
+    text-align: center;
+    background-color: #222;
+    height: 40px;
+    
+}
+#menu a{
+    color: #fff;
+    text-decoration: none;
+    
+}
+
